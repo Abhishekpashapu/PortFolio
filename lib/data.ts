@@ -280,7 +280,7 @@ export const skillChains = [
 export const projects: Project[] = [
   {
     slug: "milk-route-manager",
-    title: "Milk Route Manager",
+    title: "Milk Delivery ",
     subtitle: "A full-stack operations platform for small dairy distributors",
     category: "Software / Full-Stack",
     status: "Completed",
@@ -361,7 +361,7 @@ export const projects: Project[] = [
   },
   {
     slug: "ai-attendance-system",
-    title: "AI Attendance System",
+    title: "AI Based Attendance System",
     subtitle: "Camera-based attendance with an auditable review flow",
     category: "AI / Computer Vision",
     status: "In Development",
@@ -789,26 +789,13 @@ export const education = [
 
 export const certifications = [
   {
-    name: "[CERTIFICATION NAME]",
-    issuer: "[ISSUING ORGANISATION]",
-    date: "[YEAR]",
+    name: "Cybersecurity Fundamentals",
+    issuer: "GraduGuru Innovations",
+    date: "2026",
     link: null,
-    note: "Add a real certificate and verification link — do not publish unverified credentials.",
+    note: "Certificate of completion for a course on cybersecurity fundamentals, covering topics such as network security, cryptography, and secure coding practices.",
   },
-  {
-    name: "[CERTIFICATION NAME]",
-    issuer: "[ISSUING ORGANISATION]",
-    date: "[YEAR]",
-    link: null,
-    note: "Replace this card with a certification you have actually completed.",
-  },
-  {
-    name: "[CERTIFICATION NAME]",
-    issuer: "[ISSUING ORGANISATION]",
-    date: "[YEAR]",
-    link: null,
-    note: "Keep only the credentials you can verify on request.",
-  },
+ 
 ];
 
 // ---------------------------------------------------------------------------
